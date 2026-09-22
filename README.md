@@ -33,6 +33,13 @@ No dashboard. No external database. No framework surrounding the framework.
 - Atomic JSON state writes
 - One application file with configuration grouped at the top
 
+## View it in action
+<center>
+<img width="300" alt="Ikelene_YjvMSJ13y7" src="https://github.com/user-attachments/assets/56113bd3-6006-4f42-a482-a14b7815c7c6" />
+<img width="300" alt="Ikelene_z1tkcQH3QZ" src="https://github.com/user-attachments/assets/0f1333f4-cb5d-4531-a721-4d794105b558" />
+<img width="300" alt="Ikelene_xzmlPYRoBm" src="https://github.com/user-attachments/assets/783d2baa-573b-4e85-93c3-f9f9a35760c2" />
+</center>
+
 ## Requirements
 
 - Python 3.10 or newer
