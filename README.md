@@ -20,8 +20,6 @@ Sibyl is a compact, self-hosted Discord AI chatbot. Connect a Discord token, cho
 
 No dashboard. No external database. No framework surrounding the framework.
 
-The banner is hand-authored ASCII artwork rendered as SVG. No generated imagery is used.
-
 ## Features
 
 - ChatGPT and Gemini API-key providers
