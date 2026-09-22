@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="520" viewBox="0 0 1200 520" role="img" aria-labelledby="title desc">
+  <title id="title">Sibyl</title>
+  <desc id="desc">Sibyl wordmark and chatbot rendered entirely as ASCII art</desc>
+  <rect width="1200" height="520" rx="32" fill="#090d14"/>
+  <rect x="24" y="24" width="1152" height="472" rx="20" fill="none" stroke="#263244" stroke-width="2"/>
+  <g fill="#87f7d0" font-family="JetBrains Mono,Consolas,Liberation Mono,monospace" font-size="25" font-weight="700" xml:space="preserve">
+    <text x="70" y="105">  ____  ___ ____  _   _ _</text>
+    <text x="70" y="140"> / ___||_ _| __ )| \ | | |</text>
+    <text x="70" y="175"> \___ \ | ||  _ \|  \| | |</text>
+    <text x="70" y="210">  ___) || || |_) | |\  | |___</text>
+    <text x="70" y="245"> |____/|___|____/|_| \_|_____|</text>
+  </g>
+  <g fill="#65738a" font-family="JetBrains Mono,Consolas,Liberation Mono,monospace" font-size="18" xml:space="preserve">
+    <text x="76" y="302">discord ai chatbot</text>
+    <text x="76" y="335">chatgpt  |  gemini</text>
+    <text x="76" y="368">memory   |  images</text>
+    <text x="76" y="401">mentions |  replies</text>
+  </g>
+  <g fill="#a9c2e3" font-family="JetBrains Mono,Consolas,Liberation Mono,monospace" font-size="20" xml:space="preserve">
+    <text x="700" y="100">        .----------------.</text>
+    <text x="700" y="130">       /                  \</text>
+    <text x="700" y="160">      |   [o]        [o]   |</text>
+    <text x="700" y="190">      |                    |</text>
+    <text x="700" y="220">      |       .----.       |</text>
+    <text x="700" y="250">      |      /      \      |</text>
+    <text x="700" y="280">       \    '------'     /</text>
+    <text x="700" y="310">        '------.  .------'</text>
+    <text x="700" y="340">                \ \</text>
+    <text x="700" y="370">                 \ '.</text>
+    <text x="700" y="400">                  '--'</text>
+  </g>
+  <text x="70" y="465" fill="#3ee7b3" font-family="JetBrains Mono,Consolas,Liberation Mono,monospace" font-size="16">&gt; a conversation is ready_</text>
+</svg>
